@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">native1</string>
+    <string name="title" > memes app</string>
+    <string name="meme_1" > meme1</string>
+    <string name="meme_2" > meme2</string>
+    <string name="name1" > my name is mahmoud ashraf</string>
+    <string name="age" > My age = 20</string>
+    <string name="job" > programmer</string>
+    <string name="city" > mansoura city</string>
+</resources>
