@@ -7,4 +7,5 @@
     <string name="age" > My age = 20</string>
     <string name="job" > programmer</string>
     <string name="city" > mansoura city</string>
+    <string name="hobby" >  city</string>
 </resources>
